@@ -18,7 +18,7 @@ gem 'mini_magick'
 # end
 gem 'validates_timeliness', '~> 5.0.0.alpha3'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
