@@ -1,5 +1,12 @@
 # Senior Seminar Backend - Travelly
 
+1. [Demo](#demo)
+2. [Versions](#Versions)
+3. [Commands](#Commands)
+4. [Main Features](#Main-features)
+5. [Model Diagram](#Backend-model-diagram)
+6. [Contributions](#Contributions)
+
 ## Demo
 
 - Frontend: https://travelly-frontend.herokuapp.com/login/
