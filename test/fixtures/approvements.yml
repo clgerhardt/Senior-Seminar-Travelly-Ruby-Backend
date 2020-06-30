@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  approved: false
+  date_budget_app: 2019-04-03 09:47:17
+  date_payment_mgr: 2019-04-03 09:47:17
+
+two:
+  approved: false
+  date_budget_app: 2019-04-03 09:47:17
+  date_payment_mgr: 2019-04-03 09:47:17
